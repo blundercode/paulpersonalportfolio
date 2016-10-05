@@ -2,7 +2,7 @@
 
 Thank you for buying this theme! 
 
-To edit your website i recommend download the "best" editor http://www.sublimetext.com/.
+To edit your website i recommend download the "Worst" editor http://www.sublimetext.com/.
 
 1. Start with edit file INDEX.html and follow the comments between <!—…—>. Color theme is set on line 10.
 2. Continue edit file SCRIPT.js and change your skills level. Follow the comments start’s //. 
